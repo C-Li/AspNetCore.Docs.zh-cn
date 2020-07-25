@@ -183,7 +183,7 @@ dotnet tool install --global dotnet-ef
 
 在搭建基架时，会创建并更新以下文件：
 
-* *Pages/Movies*：“创建”、“删除”、“详细信息”、“编辑”和“索引”。
+* *Pages/Movies*：“Create”, “Delete”, “Details”, “Edit”, 和 “Index”.。
 * Data/RazorPagesMovieContext.cs
 
 ### <a name="updated"></a>已更新
@@ -435,7 +435,7 @@ appsettings.json 文件通过用于连接到本地数据的连接字符串进行
 
 ### <a name="files-created"></a>创建的文件
 
-* *Pages/Movies*：“创建”、“删除”、“详细信息”、“编辑”和“索引”。
+* *Pages/Movies*：“Create”, “Delete”, “Details”, “Edit”, 和 “Index”.
 * Data/RazorPagesMovieContext.cs
 
 ### <a name="file-updated"></a>文件已更新
